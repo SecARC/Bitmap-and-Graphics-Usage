@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\week03-3\week03-3\bin\Debug\week03-3.exe.config
+C:\Users\PC\source\repos\week03-3\week03-3\bin\Debug\week03-3.exe
+C:\Users\PC\source\repos\week03-3\week03-3\bin\Debug\week03-3.pdb
+C:\Users\PC\source\repos\week03-3\week03-3\obj\Debug\week03-3.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\week03-3\week03-3\obj\Debug\week03_3.Form1.resources
+C:\Users\PC\source\repos\week03-3\week03-3\obj\Debug\week03_3.Properties.Resources.resources
+C:\Users\PC\source\repos\week03-3\week03-3\obj\Debug\week03-3.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\week03-3\week03-3\obj\Debug\week03-3.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\week03-3\week03-3\obj\Debug\week03-3.exe
+C:\Users\PC\source\repos\week03-3\week03-3\obj\Debug\week03-3.pdb
